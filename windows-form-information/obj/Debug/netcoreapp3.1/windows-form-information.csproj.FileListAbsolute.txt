@@ -1,0 +1,16 @@
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.exe
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.deps.json
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.runtimeconfig.json
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.runtimeconfig.dev.json
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.dll
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\bin\Debug\netcoreapp3.1\windows-form-information.pdb
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.csproj.AssemblyReference.cache
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows_form_information.Form1.resources
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.csproj.GenerateResource.cache
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.AssemblyInfoInputs.cache
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.AssemblyInfo.cs
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.csproj.CoreCompileInputs.cache
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.dll
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.pdb
+C:\Users\manas\Desktop\windows-form-information\windows-form-information\obj\Debug\netcoreapp3.1\windows-form-information.genruntimeconfig.cache
