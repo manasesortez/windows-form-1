@@ -49,7 +49,14 @@ namespace windows_form_information
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label4.Text = "Hola Bienvenido " + txtNombre.Text + txtApellido.Text + ", tu edad es: " + txtEdad.Text;
+            String nombre;
+            String apellido;
+            String edad;
+            nombre = txtNombre.Text;
+            apellido = txtApellido.Text;
+            edad = txtEdad.Text;
+
+            MessageBox.Show("Hola Bienvenido " + nombre + apellido + "\nTu Edad es de: " + edad);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -57,7 +64,6 @@ namespace windows_form_information
             txtNombre.Clear();
             txtApellido.Clear();
             txtEdad.Clear();
-            label4.Text = "";
         }
 
         private void pnlInfo_Paint(object sender, PaintEventArgs e)

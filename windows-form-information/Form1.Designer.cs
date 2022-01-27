@@ -37,7 +37,6 @@ namespace windows_form_information
             this.txtEdad = new System.Windows.Forms.TextBox();
             this.btnCheck = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNombre
@@ -115,23 +114,12 @@ namespace windows_form_information
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.button2_Click);
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(356, 139);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(125, 30);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Informacion";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SlateGray;
-            this.ClientSize = new System.Drawing.Size(753, 394);
-            this.Controls.Add(this.label4);
+            this.ClientSize = new System.Drawing.Size(380, 389);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnCheck);
             this.Controls.Add(this.label3);
@@ -158,7 +146,6 @@ namespace windows_form_information
         private System.Windows.Forms.TextBox txtEdad;
         private System.Windows.Forms.Button btnCheck;
         private System.Windows.Forms.Button btnClear;
-        private System.Windows.Forms.Label label4;
     }
 }
 
